@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- *  *print_rev - prints strin in reverse.
- *   *@s: pointer to string.
- *    *
- *     *Return: 0
- *      */
+* print_rev - prints strin in reverse.
+* @s: pointer to string.
+*
+* Return: 0
+*/
 void print_rev(char *s)
 {
 		int length, last;
